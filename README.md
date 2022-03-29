@@ -17,7 +17,7 @@ https://github.com/IIC2343/Syllabus-2022-1-S2/issues
 | Joaquin | Buggman | Ayudante | jabugmann@uc.cl |
 | Yuwen | Cheng | Ayudante | ycheng@uc.cl  |
 
-
+## Información Administrativa :eyes:
 El curso cuenta con distintas formas de evaluaciones:
 - 2 Interrogaciones :page_facing_up:
 - 2 Laboratorios :desktop_computer:
@@ -26,7 +26,7 @@ El curso cuenta con distintas formas de evaluaciones:
 - 1 Examen :page_with_curl:
 
 
-## Calendario evaluaciones 	:page_with_curl:
+### Calendario evaluaciones 	:page_with_curl:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
@@ -34,7 +34,7 @@ El curso cuenta con distintas formas de evaluaciones:
 | I2 | 25-05 | 
 | Ex | 01-07 | 
 
-## Calendario laboratorios  :desktop_computer:
+### Calendario laboratorios  :desktop_computer:
 
 | Evaluación | Fecha | Subseccion |
 | :-:        | :-:   | :-:        |
@@ -45,7 +45,7 @@ El curso cuenta con distintas formas de evaluaciones:
 | Actividad 2 | 8-04 | 2 |
 | Actividad 2 | 8-04 | 3 |
 
-## Calendario tareas 	:keyboard:
+### Calendario tareas 	:keyboard:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
@@ -53,7 +53,7 @@ El curso cuenta con distintas formas de evaluaciones:
 | T2 |  | 
 
 
-## Calendario proyecto :electric_plug:
+### Calendario proyecto :electric_plug:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
