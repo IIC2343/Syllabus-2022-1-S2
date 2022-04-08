@@ -2,7 +2,7 @@
 
 Este es el Syllabus del curso IIC2324 para el primer semestre 2022-S2.
 Cualquier duda pública, utilizar el sitio de dudas del curso:
-https://github.com/IIC2343/Syllabus-2022-1-S2/issues
+https://github.com/IIC2343/Syllabus-2022-1-S2/discussions
 
 ## Equipo docente 📩
 
@@ -40,10 +40,10 @@ El curso cuenta con distintas formas de evaluaciones:
 | :-:        | :-:   | :-:        |
 |<s> Actividad 1 <s> | <s> 25-03 <s>| <s>1<s> | 
 |<s> Actividad 1 <s> | <s> 25-03 <s> |<s> 2 <s>|
-| Actividad 1 | 1-04 | 3 |
-| Actividad 2 | 1-04 | 1 | 
-| Actividad 2 | 8-04 | 2 |
-| Actividad 2 | 8-04 | 3 |
+|<s> Actividad 1 <s>|<s> 1-04 <s>|<s> 3 <s>|
+|<s> Actividad 2 <s>|<s> 1-04 |<s> 1 <s>| 
+|<s> Actividad 2 <s>|<s> 8-04 <s>|<s> 2 <s>|
+|<s> Actividad 2 <s>|<s> 8-04 <s>|<s> 3 <s>|
 
 ### Calendario tareas 	:keyboard:
 
@@ -57,8 +57,8 @@ El curso cuenta con distintas formas de evaluaciones:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
-| E1 | | 
-| E2 | | 
+| E1 | 06-05 | 
+| E2 | 27-05 | 
 | E3 | | 
 
 
