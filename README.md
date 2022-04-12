@@ -14,7 +14,7 @@ https://github.com/IIC2343/Syllabus-2022-1-S2/discussions
 | Carlos | Costa | Ayudante | cncosta@uc.cl |
 | Nicole | Larenas | Ayudante | nlarenasb@uc.cl |
 | Sebastián | Mitjans | Ayudante | smitjans@uc.cl |
-| Joaquin | Buggman | Ayudante | jabugmann@uc.cl |
+| Joaquin | Bugmann | Ayudante | jabugmann@uc.cl |
 | Yuwen | Cheng | Ayudante | ycheng@uc.cl  |
 
 ## Información Administrativa :eyes:
