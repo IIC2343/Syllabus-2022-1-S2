@@ -30,7 +30,7 @@ El curso cuenta con distintas formas de evaluaciones:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
-| I1 | 13-04 | 
+|<s> I1 <s>|<s> 13-04 <s>| 
 | I2 | 25-05 | 
 | Ex | 01-07 | 
 
