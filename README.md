@@ -31,7 +31,7 @@ El curso cuenta con distintas formas de evaluaciones:
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
 |<s> I1 <s>|<s> 13-04 <s>| 
-| I2 | 25-05 | 
+|<s> I2 <s>|<s> 25-05 <s>| 
 | Ex | 01-07 | 
 
 ### Calendario laboratorios  :desktop_computer:
@@ -49,17 +49,17 @@ El curso cuenta con distintas formas de evaluaciones:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
-| T1 |  | 
-| T2 |  | 
+|<s> T1 <s>|<s> 16-05 <s>| 
+| T2 | 22-06 | 
 
 
 ### Calendario proyecto :electric_plug:
 
 | Evaluación | Fecha | 
 | :-:        | :-:   | 
-| E1 | 06-05 | 
-| E2 | 27-05 | 
-| E3 | | 
+|<s> E1 <s>|<s> 06-05 <s>| 
+|<s> E2 <s>|<s> 27-05 <s>| 
+|<s> E3 <s>|<s> 17-06 <s>| 
 
 
 
